@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+
+a {
+    font-size: 1000px;
+    font-family: Arial;
+    color: white;
+    text-decoration: none;
+}
