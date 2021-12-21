@@ -1,4 +1,4 @@
-/* The sidebar menu */
+/* боковая панель */
 .nav {
     height: 100%; /* Full-height: remove this if you want "auto" height */
     width: 200px; /* Set the width of the sidebar */
@@ -11,6 +11,11 @@
     padding-top: 20px;
 }
 
+h1 {
+    font-family: NeverSmile;
+    font-size: 50px;
+}
+
 p  {
     font-size: 30px;
     font-family: "Arial Black";
@@ -21,7 +26,7 @@ a {
     font-family: "Arial";
 }
 
-/* The navigation menu links */
+/* слова в боковой панели */
 .nav a {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
@@ -30,7 +35,7 @@ a {
     display: block;
 }
 
-/* When you mouse over the navigation links, change their color */
+/* Меняет цвет при наведени на слово в боковой панели */
 .nav a:hover {
     color: #f1f1f1;
 }
